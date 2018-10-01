@@ -1,0 +1,18 @@
+[submodule "netflix-eureka-naming-server"]
+	path = netflix-eureka-naming-server
+	url = https://github.com/evelynda1985/netflix-eureka-naming-server.git
+[submodule "netflix-zuul-api-gateway-server"]
+	path = netflix-zuul-api-gateway-server
+	url = https://github.com/evelynda1985/netflix-zuul-api-gateway-server.git
+[submodule "spring-cloud-config-server"]
+	path = spring-cloud-config-server
+	url = https://github.com/evelynda1985/spring-cloud-config-server.git
+[submodule "limit-service"]
+	path = limit-service
+	url = https://github.com/evelynda1985/limit-service.git
+[submodule "currency-exchange-service"]
+	path = currency-exchange-service
+	url = https://github.com/evelynda1985/currency-exchange-service.git
+[submodule "currency-conversion-service"]
+	path = currency-conversion-service
+	url = https://github.com/evelynda1985/currency-conversion-service.git
